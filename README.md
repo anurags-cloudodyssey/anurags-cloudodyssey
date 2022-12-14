@@ -2,7 +2,7 @@
 <p>My self <b> Anurag Singh </b>, working as a associate software engineer <b>@Cloud_Odyssey</b> in salesforce commerce cloud (SFCC) domain. I am a Salesforce Certified Developer, having 6 month of working experince in <b> Full Stack Developemnt </b> along with <b> Commerce Cloud</b>.</p>
 
 <hr>
-<h3 align="left">Reach Out :-</h3>
+<h3 align="left">Reach Out: </h3>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/anurags_me)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/anuragsingh6886/)
