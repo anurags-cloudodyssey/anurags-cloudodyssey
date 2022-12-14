@@ -10,7 +10,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/anurags_me/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Profile-informational?style=flat&logo=youtube&logoColor=white&color=0D76A8)](https://www.youtube.com/channel/UCCdkjrdWPHdjKz3bjbpJqfg)
 
-<h3 align="left">Skills :-</h3>
+<h3 align="left">Skills: </h3>
 
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
