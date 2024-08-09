@@ -1,5 +1,5 @@
 <h2 align="left">Hey, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p>My self <b> Anurag Singh </b>, working as a associate software engineer <b>@Cloud_Odyssey</b> in salesforce commerce cloud (SFCC) B2C domain. I am a Salesforce Certified Developer, having 2 YEAR of working experience in <b> Full Stack Development </b> along with <b> Commerce Cloud</b>.</p>
+<p>My self <b> Anurag Singh </b>, working as a SFCC Developer <b>@Cloud_Odyssey</b> in salesforce commerce cloud (SFCC) B2C domain. I am a Salesforce Certified Developer, having 2 YEAR of working experience in <b> Full Stack Development </b> along with <b> Commerce Cloud</b>.</p>
 
 <hr>
 <h3 align="left">Reach Out: </h3>
